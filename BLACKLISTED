@@ -1,0 +1,1130 @@
+- [ ] ./../tutorials/ChemicalBistables/mapkFB.py
+
+`i``
+  
+  
+```
+- [ ] ./../tutorials/ChemicalBistables/doseResponse.py
+
+`i``
+  
+  
+  Totals:	-3273.39	3377.49	
+  gamma[2, 5] = 
+      -1    -1    -2     1     0
+       1     1     2     0     1
+  Nr[3, 4] = 
+      -1     0     0     1
+       0     2    -1    -1
+       0     0  -0.5   0.5
+  LU[5, 9] = 
+      -1     0     0     1     1     0     0     0     0
+       0     2    -1    -1    -1     1     0     0     0
+       0     0  -0.5   0.5   0.5   0.5     1     0     0
+       0     0     0     0    -1    -1    -2     1     0
+       0     0     0     0     1     1     2     0     1
+  -20
+  Warning: SteadyState iteration failed, status = input domain error, nIter = 3
+```
+- [ ] ./../tutorials/ExcInhNet/ExcInhNet_Ostojic2014_Brunel2000.py
+
+`i``
+    
+    
+    Totals:	-3273.39	3377.49	
+    gamma[2, 5] = 
+        -1    -1    -2     1     0
+         1     1     2     0     1
+    Nr[3, 4] = 
+        -1     0     0     1
+         0     2    -1    -1
+         0     0  -0.5   0.5
+    LU[5, 9] = 
+        -1     0     0     1     1     0     0     0     0
+         0     2    -1    -1    -1     1     0     0     0
+         0     0  -0.5   0.5   0.5   0.5     1     0     0
+         0     0     0     0    -1    -1    -2     1     0
+         0     0     0     0     1     1     2     0     1
+    -20
+    Warning: SteadyState iteration failed, status = input domain error, nIter = 3
+```
+- [ ] ./../traub_2005/py/test_deepbasket.py
+
+`i``
+  ('data_dir =', '/tmp/traub2005_data/2017_06_28')
+  ReadCell: 74 compartments, 772 channels, 69 others
+  ReadCell: 74 compartments, 772 channels, 69 others
+  ReadCell: 59 compartments, 501 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 59 compartments, 539 channels, 54 others
+  ReadCell: 50 compartments, 448 channels, 45 others
+  ReadCell: 61 compartments, 594 channels, 56 others
+  ReadCell: 61 compartments, 594 channels, 56 others
+  ReadCell: 59 compartments, 501 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 137 compartments, 1345 channels, 132 others
+  ReadCell: 59 compartments, 607 channels, 54 others
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/deepbasket[0]'.
+  llate_0[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_0[0]/DeepBasket_0[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_0[0]/DeepLTS_0[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_1[0]/SpinyStellate_1[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_1[0]/DeepBasket_1[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_1[0]/DeepLTS_1[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_2[0]/SpinyStellate_2[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_2[0]/DeepBasket_2[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_2[0]/DeepLTS_2[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_3[0]/SpinyStellate_3[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_3[0]/DeepBasket_3[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_3[0]/DeepLTS_3[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_4[0]/SpinyStellate_4[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_4[0]/DeepBasket_4[0]'.
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_4[0]/DeepLTS_4[0]'.
+```
+- [ ] ./../traub_2005/py/fig_a2_fs.py
+
+`i``
+    ('data_dir =', '/tmp/traub2005_data/2017_06_28')
+    ReadCell: 74 compartments, 772 channels, 69 others
+    ReadCell: 74 compartments, 772 channels, 69 others
+    ReadCell: 59 compartments, 501 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 59 compartments, 539 channels, 54 others
+    ReadCell: 50 compartments, 448 channels, 45 others
+    ReadCell: 61 compartments, 594 channels, 56 others
+    ReadCell: 61 compartments, 594 channels, 56 others
+    ReadCell: 59 compartments, 501 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 137 compartments, 1345 channels, 132 others
+    ReadCell: 59 compartments, 607 channels, 54 others
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/deepbasket[0]'.
+    llate_0[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_0[0]/DeepBasket_0[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_0[0]/DeepLTS_0[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_1[0]/SpinyStellate_1[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_1[0]/DeepBasket_1[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_1[0]/DeepLTS_1[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_2[0]/SpinyStellate_2[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_2[0]/DeepBasket_2[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_2[0]/DeepLTS_2[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_3[0]/SpinyStellate_3[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_3[0]/DeepBasket_3[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_3[0]/DeepLTS_3[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_4[0]/SpinyStellate_4[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_4[0]/DeepBasket_4[0]'.
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_4[0]/DeepLTS_4[0]'.
+```
+- [ ] ./../traub_2005/py/dump_f_i_curves.py
+
+`i``
+      ('data_dir =', '/tmp/traub2005_data/2017_06_28')
+      ReadCell: 74 compartments, 772 channels, 69 others
+      ReadCell: 74 compartments, 772 channels, 69 others
+      ReadCell: 59 compartments, 501 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 539 channels, 54 others
+      ReadCell: 50 compartments, 448 channels, 45 others
+      ReadCell: 61 compartments, 594 channels, 56 others
+      ReadCell: 61 compartments, 594 channels, 56 others
+      ReadCell: 59 compartments, 501 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 137 compartments, 1345 channels, 132 others
+      ReadCell: 59 compartments, 607 channels, 54 others
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/deepbasket[0]'.
+      llate_0[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_0[0]/DeepBasket_0[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_0[0]/DeepLTS_0[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_1[0]/SpinyStellate_1[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_1[0]/DeepBasket_1[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_1[0]/DeepLTS_1[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_2[0]/SpinyStellate_2[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_2[0]/DeepBasket_2[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_2[0]/DeepLTS_2[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_3[0]/SpinyStellate_3[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_3[0]/DeepBasket_3[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_3[0]/DeepLTS_3[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_4[0]/SpinyStellate_4[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_4[0]/DeepBasket_4[0]'.
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/mc_4[0]/DeepLTS_4[0]'.
+```
+- [ ] ./../traub_2005/py/fig_a3.py
+- [ ] ./../traub_2005/py/test_deeplts.py
+
+`i``
+  .'data_dir =', '/tmp/traub2005_data/2017_06_28')
+  ReadCell: 74 compartments, 772 channels, 69 others
+  ReadCell: 74 compartments, 772 channels, 69 others
+  ReadCell: 59 compartments, 501 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 59 compartments, 539 channels, 54 others
+  ReadCell: 50 compartments, 448 channels, 45 others
+  ReadCell: 61 compartments, 594 channels, 56 others
+  ReadCell: 61 compartments, 594 channels, 56 others
+  ReadCell: 59 compartments, 501 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 137 compartments, 1345 channels, 132 others
+  ReadCell: 59 compartments, 607 channels, 54 others
+  Warning: HSolve::setPath(): No compartments found at or below '/model[0]'.
+```
+- [ ] ./../traub_2005/py/test_suppyrfrb.py
+
+`i``
+
+`i``
+      .'data_dir =', '/tmp/traub2005_data/2017_06_28')
+      ReadCell: 74 compartments, 772 channels, 69 others
+      ReadCell: 74 compartments, 772 channels, 69 others
+      ReadCell: 59 compartments, 501 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 539 channels, 54 others
+      ReadCell: 50 compartments, 448 channels, 45 others
+      ReadCell: 61 compartments, 594 channels, 56 others
+      ReadCell: 61 compartments, 594 channels, 56 others
+      ReadCell: 59 compartments, 501 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 137 compartments, 1345 channels, 132 others
+      ReadCell: 59 compartments, 607 channels, 54 others
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]'.
+```
+      .'data_dir =', '/tmp/traub2005_data/2017_06_28')
+      ReadCell: 74 compartments, 772 channels, 69 others
+      ReadCell: 74 compartments, 772 channels, 69 others
+      ReadCell: 59 compartments, 501 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 539 channels, 54 others
+      ReadCell: 50 compartments, 448 channels, 45 others
+      ReadCell: 61 compartments, 594 channels, 56 others
+      ReadCell: 61 compartments, 594 channels, 56 others
+      ReadCell: 59 compartments, 501 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 137 compartments, 1345 channels, 132 others
+      ReadCell: 59 compartments, 607 channels, 54 others
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]'.
+```
+- [ ] ./../traub_2005/py/test_kchans.py
+
+`i``
+        .'data_dir =', '/tmp/traub2005_data/2017_06_28')
+        ReadCell: 74 compartments, 772 channels, 69 others
+        ReadCell: 74 compartments, 772 channels, 69 others
+        ReadCell: 59 compartments, 501 channels, 54 others
+        ReadCell: 59 compartments, 283 channels, 54 others
+        ReadCell: 59 compartments, 283 channels, 54 others
+        ReadCell: 59 compartments, 539 channels, 54 others
+        ReadCell: 50 compartments, 448 channels, 45 others
+        ReadCell: 61 compartments, 594 channels, 56 others
+        ReadCell: 61 compartments, 594 channels, 56 others
+        ReadCell: 59 compartments, 501 channels, 54 others
+        ReadCell: 59 compartments, 283 channels, 54 others
+        ReadCell: 59 compartments, 283 channels, 54 others
+        ReadCell: 137 compartments, 1345 channels, 132 others
+        ReadCell: 59 compartments, 607 channels, 54 others
+        Warning: HSolve::setPath(): No compartments found at or below '/model[0]'.
+```
+- [ ] ./../traub_2005/py/test_deepaxoaxonic.py
+- [ ] ./../traub_2005/py/test_spinystellate.py
+
+`i``
+
+`i``
+- [ ] ./../traub_2005/py/test_nrt.py
+    ('data_dir =', '/tmp/traub2005_data/2017_06_28')
+    ReadCell: 74 compartments, 772 channels, 69 others
+    ReadCell: 74 compartments, 772 channels, 69 others
+    ReadCell: 59 compartments, 501 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 59 compartments, 539 channels, 54 others
+    ReadCell: 50 compartments, 448 channels, 45 others
+    ReadCell: 61 compartments, 594 channels, 56 others
+    ReadCell: 61 compartments, 594 channels, 56 others
+    ReadCell: 59 compartments, 501 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 137 compartments, 1345 channels, 132 others
+    ReadCell: 59 compartments, 607 channels, 54 others
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/TuftedIB[0]'.
+```
+    ('data_dir =', '/tmp/traub2005_data/2017_06_28')
+    ReadCell: 74 compartments, 772 channels, 69 others
+    ReadCell: 74 compartments, 772 channels, 69 others
+    ReadCell: 59 compartments, 501 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 59 compartments, 539 channels, 54 others
+    ReadCell: 50 compartments, 448 channels, 45 others
+    ReadCell: 61 compartments, 594 channels, 56 others
+    ReadCell: 61 compartments, 594 channels, 56 others
+    ReadCell: 59 compartments, 501 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 59 compartments, 283 channels, 54 others
+    ReadCell: 137 compartments, 1345 channels, 132 others
+    ReadCell: 59 compartments, 607 channels, 54 others
+    Warning: HSolve::setPath(): No compartments found at or below '/model[0]/TuftedIB[0]'.
+```
+
+`i``
+      ('data_dir =', '/tmp/traub2005_data/2017_06_28')
+      ReadCell: 74 compartments, 772 channels, 69 others
+      ReadCell: 74 compartments, 772 channels, 69 others
+      ReadCell: 59 compartments, 501 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 539 channels, 54 others
+      ReadCell: 50 compartments, 448 channels, 45 others
+      ReadCell: 61 compartments, 594 channels, 56 others
+      ReadCell: 61 compartments, 594 channels, 56 others
+      ReadCell: 59 compartments, 501 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 59 compartments, 283 channels, 54 others
+      ReadCell: 137 compartments, 1345 channels, 132 others
+      ReadCell: 59 compartments, 607 channels, 54 others
+      Warning: HSolve::setPath(): No compartments found at or below '/model[0]/TuftedIB[0]'.
+```
+- [ ] ./../traub_2005/py/fig_a4c.py
+
+`i``
+        ('data_dir =', '/tmp/traub2005_data/2017_06_28')
+        ReadCell: 74 compartments, 772 channels, 69 others
+        ReadCell: 74 compartments, 772 channels, 69 others
+        ReadCell: 59 compartments, 501 channels, 54 others
+        ReadCell: 59 compartments, 283 channels, 54 others
+        ReadCell: 59 compartments, 283 channels, 54 others
+        ReadCell: 59 compartments, 539 channels, 54 others
+        ReadCell: 50 compartments, 448 channels, 45 others
+        ReadCell: 61 compartments, 594 channels, 56 others
+        ReadCell: 61 compartments, 594 channels, 56 others
+        ReadCell: 59 compartments, 501 channels, 54 others
+        ReadCell: 59 compartments, 283 channels, 54 others
+        ReadCell: 59 compartments, 283 channels, 54 others
+        ReadCell: 137 compartments, 1345 channels, 132 others
+        ReadCell: 59 compartments, 607 channels, 54 others
+        Warning: HSolve::setPath(): No compartments found at or below '/model[0]/TuftedIB[0]'.
+```
+- [ ] ./../traub_2005/py/test_tcr.py
+- [ ] ./../traub_2005/py/test_supbasket.py
+
+`i``
+- [ ] ./../traub_2005/py/test_suplts.py
+  .```
+
+`i``
+
+`i``
+      .```
+- [ ] ./../traub_2005/py/test_hsolve_tcr.py
+
+`i``
+        .```
+        .```
+- [ ] ./../traub_2005/py/test_tuftedib.py
+
+`i``
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/SupPyrRS[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/TuftedRS[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/SupAxoaxonic[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/SupPyrFRB[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/DeepLTS[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/SupLTS[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/nRT[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/SupBasket[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/DeepBasket[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/DeepAxoaxonic[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/TCR[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/TuftedIB[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/SpinyStellate[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  /usr/lib/pymodules/python2.7/pygraphviz/agraph.py:1281: RuntimeWarning: Warning: specified root node "/library[0]/NontuftedRS[0]/comp_1" was not found.Using default calculation for root node
+  
+    warnings.warn("".join(errors),RuntimeWarning)
+  ('data_dir =', '/tmp/traub2005_data/2017_06_28')
+  ReadCell: 74 compartments, 772 channels, 69 others
+  ReadCell: 74 compartments, 772 channels, 69 others
+  ReadCell: 59 compartments, 501 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 59 compartments, 539 channels, 54 others
+  ReadCell: 50 compartments, 448 channels, 45 others
+  ReadCell: 61 compartments, 594 channels, 56 others
+  ReadCell: 61 compartments, 594 channels, 56 others
+  ReadCell: 59 compartments, 501 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 59 compartments, 283 channels, 54 others
+  ReadCell: 137 compartments, 1345 channels, 132 others
+  ReadCell: 59 compartments, 607 channels, 54 others
+  ['display_morphology.py']
+  args [] []
+```
+- [ ] ./../traub_2005/py/test_nontuftedrs.py
+
+`i``
+  ....('data_dir =', '/tmp/traub2005_data/2017_06_28')
+  ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+  Elements under /clock[0]
+  ('Starting simulation', 159075048174948496729482377032068324952L, 'for', 0.35, 's')
+  Finished simulation
+  ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+  ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaF_Vm.dat')
+  (1401, 1401)
+  ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaF_Gk.dat')
+  ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaF_Ik.dat')
+  ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+  Elements under /clock[0]
+  ('Starting simulation', 54046809140289515313091938167674538896L, 'for', 0.35, 's')
+  Finished simulation
+  ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+  ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaF_TCR_Vm.dat')
+  (1401, 1401)
+  ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaF_TCR_Gk.dat')
+  ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaF_TCR_Ik.dat')
+  ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+  Elements under /clock[0]
+  ('Starting simulation', 176827124941905692918654398453452652613L, 'for', 0.35, 's')
+  Finished simulation
+  ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+  ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaF2_Vm.dat')
+  (1401, 1401)
+  ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaF2_Gk.dat')
+  ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaF2_Ik.dat')
+  ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+  Elements under /clock[0]
+  ('Starting simulation', 120770745982307532767219245461072743594L, 'for', 0.35, 's')
+  Finished simulation
+  ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+  ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaF2_nRT_Vm.dat')
+  (1401, 1401)
+  ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaF2_nRT_Gk.dat')
+  ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaF2_nRT_Ik.dat')
+  ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+  Elements under /clock[0]
+  ('Starting simulation', 293033801879582138381964079531622795980L, 'for', 0.35, 's')
+  Finished simulation
+  ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+  ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaP_Vm.dat')
+  (1401, 1401)
+  ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaP_Gk.dat')
+  ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaP_Ik.dat')
+  ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+  Elements under /clock[0]
+  ('Starting simulation', 253359964407254757752835805954072015728L, 'for', 0.35, 's')
+  Finished simulation
+  ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+  ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaPF_Vm.dat')
+  (1401, 1401)
+  ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaPF_Gk.dat')
+  ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaPF_Ik.dat')
+  ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+  Elements under /clock[0]
+  ('Starting simulation', 221292856234197156650368857814325076439L, 'for', 0.35, 's')
+  Finished simulation
+  ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+  ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaPF_SS_Vm.dat')
+  (1401, 1401)
+  ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaPF_SS_Gk.dat')
+  ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaPF_SS_Ik.dat')
+  ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+  Elements under /clock[0]
+  ('Starting simulation', 323429445189280957505310443146706483676L, 'for', 0.35, 's')
+  Finished simulation
+  ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+  ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaPF_TCR_Vm.dat')
+  (1401, 1401)
+  ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaPF_TCR_Gk.dat')
+  ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaPF_TCR_Ik.dat')
+  Testing MOOSE Gk  ...
+  [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF_Gk.dat.gz'
+  OK
+  Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF_Gk.dat.gz'
+  OK
+  Testing MOOSE Vm  ...
+  [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF_Vm.dat.gz'
+  OK
+  Testing NEURON Vm  ... [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF_Vm.dat.gz'
+  OK
+  Testing MOOSE Gk  ... [Errno 2] No such file or directory...........................: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF2_Gk.dat.gz'
+  OK
+  Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF2_Gk.dat.gz'
+  OK
+  Testing MOOSE Vm  ... [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF2_Vm.dat.gz'
+  OK
+  Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF2_Vm.dat.gz'
+  OK
+  Testing MOOSE Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF2_nRT_Gk.dat.gz'
+  OK
+  Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF2_nRT_Gk.dat.gz'
+  OK
+  Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF2_nRT_Vm.dat.gz'
+  OK
+  Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF2_nRT_Vm.dat.gz'
+  OK
+  Testing MOOSE Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF_TCR_Gk.dat.gz'
+  OK
+  Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF_TCR_Gk.dat.gz'
+  OK
+  Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF_TCR_Vm.dat.gz'
+  OK
+  Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF_TCR_Vm.dat.gz'
+  OK
+  Testing MOOSE Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaP_Gk.dat.gz'
+  OK
+  Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaP_Gk.dat.gz'
+  OK
+  Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaP_Vm.dat.gz'
+  OK
+  Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaP_Vm.dat.gz'
+  OK
+  Testing MOOSE Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_Gk.dat.gz'
+  OK
+  Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_Gk.dat.gz'
+  OK
+  Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_Vm.dat.gz'
+  OK
+  Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_Vm.dat.gz'
+  OK
+  Testing MOOSE Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_SS_Gk.dat.gz'
+  OK
+  Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_SS_Gk.dat.gz'
+  OK
+  Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_SS_Vm.dat.gz'
+  OK
+  Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_SS_Vm.dat.gz'
+  OK
+  Testing MOOSE Gk  ... [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_TCR_Gk.dat.gz'
+  OK
+  Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_TCR_Gk.dat.gz'
+  OK
+  Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_TCR_Vm.dat.gz'
+  OK
+  Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_.
+  ----------------------------------------------------------------------
+  Ran 32 tests in 0.006s
+  
+  OK
+  TCR_Vm.dat.gz'
+  OK
+```
+- [ ] ./../traub_2005/py/test_suppyrrs.py
+
+`i``
+    ....('data_dir =', '/tmp/traub2005_data/2017_06_28')
+    ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+    Elements under /clock[0]
+    ('Starting simulation', 159075048174948496729482377032068324952L, 'for', 0.35, 's')
+    Finished simulation
+    ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+    ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaF_Vm.dat')
+    (1401, 1401)
+    ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaF_Gk.dat')
+    ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaF_Ik.dat')
+    ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+    Elements under /clock[0]
+    ('Starting simulation', 54046809140289515313091938167674538896L, 'for', 0.35, 's')
+    Finished simulation
+    ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+    ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaF_TCR_Vm.dat')
+    (1401, 1401)
+    ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaF_TCR_Gk.dat')
+    ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaF_TCR_Ik.dat')
+    ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+    Elements under /clock[0]
+    ('Starting simulation', 176827124941905692918654398453452652613L, 'for', 0.35, 's')
+    Finished simulation
+    ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+    ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaF2_Vm.dat')
+    (1401, 1401)
+    ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaF2_Gk.dat')
+    ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaF2_Ik.dat')
+    ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+    Elements under /clock[0]
+    ('Starting simulation', 120770745982307532767219245461072743594L, 'for', 0.35, 's')
+    Finished simulation
+    ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+    ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaF2_nRT_Vm.dat')
+    (1401, 1401)
+    ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaF2_nRT_Gk.dat')
+    ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaF2_nRT_Ik.dat')
+    ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+    Elements under /clock[0]
+    ('Starting simulation', 293033801879582138381964079531622795980L, 'for', 0.35, 's')
+    Finished simulation
+    ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+    ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaP_Vm.dat')
+    (1401, 1401)
+    ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaP_Gk.dat')
+    ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaP_Ik.dat')
+    ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+    Elements under /clock[0]
+    ('Starting simulation', 253359964407254757752835805954072015728L, 'for', 0.35, 's')
+    Finished simulation
+    ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+    ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaPF_Vm.dat')
+    (1401, 1401)
+    ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaPF_Gk.dat')
+    ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaPF_Ik.dat')
+    ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+    Elements under /clock[0]
+    ('Starting simulation', 221292856234197156650368857814325076439L, 'for', 0.35, 's')
+    Finished simulation
+    ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+    ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaPF_SS_Vm.dat')
+    (1401, 1401)
+    ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaPF_SS_Gk.dat')
+    ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaPF_SS_Ik.dat')
+    ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+    Elements under /clock[0]
+    ('Starting simulation', 323429445189280957505310443146706483676L, 'for', 0.35, 's')
+    Finished simulation
+    ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+    ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/NaPF_TCR_Vm.dat')
+    (1401, 1401)
+    ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/NaPF_TCR_Gk.dat')
+    ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/NaPF_TCR_Ik.dat')
+    Testing MOOSE Gk  ...
+    [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF_Gk.dat.gz'
+    OK
+    Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF_Gk.dat.gz'
+    OK
+    Testing MOOSE Vm  ...
+    [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF_Vm.dat.gz'
+    OK
+    Testing NEURON Vm  ... [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF_Vm.dat.gz'
+    OK
+    Testing MOOSE Gk  ... [Errno 2] No such file or directory...........................: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF2_Gk.dat.gz'
+    OK
+    Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF2_Gk.dat.gz'
+    OK
+    Testing MOOSE Vm  ... [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF2_Vm.dat.gz'
+    OK
+    Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF2_Vm.dat.gz'
+    OK
+    Testing MOOSE Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF2_nRT_Gk.dat.gz'
+    OK
+    Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF2_nRT_Gk.dat.gz'
+    OK
+    Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF2_nRT_Vm.dat.gz'
+    OK
+    Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF2_nRT_Vm.dat.gz'
+    OK
+    Testing MOOSE Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF_TCR_Gk.dat.gz'
+    OK
+    Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF_TCR_Gk.dat.gz'
+    OK
+    Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaF_TCR_Vm.dat.gz'
+    OK
+    Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaF_TCR_Vm.dat.gz'
+    OK
+    Testing MOOSE Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaP_Gk.dat.gz'
+    OK
+    Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaP_Gk.dat.gz'
+    OK
+    Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaP_Vm.dat.gz'
+    OK
+    Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaP_Vm.dat.gz'
+    OK
+    Testing MOOSE Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_Gk.dat.gz'
+    OK
+    Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_Gk.dat.gz'
+    OK
+    Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_Vm.dat.gz'
+    OK
+    Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_Vm.dat.gz'
+    OK
+    Testing MOOSE Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_SS_Gk.dat.gz'
+    OK
+    Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_SS_Gk.dat.gz'
+    OK
+    Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_SS_Vm.dat.gz'
+    OK
+    Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_SS_Vm.dat.gz'
+    OK
+    Testing MOOSE Gk  ... [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_TCR_Gk.dat.gz'
+    OK
+    Testing NEURON Gk  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_TCR_Gk.dat.gz'
+    OK
+    Testing MOOSE Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/testdata/NaPF_TCR_Vm.dat.gz'
+    OK
+    Testing NEURON Vm  ...[Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/NaPF_.
+    ----------------------------------------------------------------------
+    Ran 32 tests in 0.006s
+    
+    OK
+    TCR_Vm.dat.gz'
+    OK
+```
+- [ ] ./../traub_2005/py/test_supaxoaxonic.py
+
+`i``
+  ......
+  ----------------------------------------------------------------------
+  Ran 6 tests in 0.002s
+  
+  OK
+  ('data_dir =', '/tmp/traub2005_data/2017_06_28')
+  ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+  Elements under /clock[0]
+  ('Starting simulation', 266262252065091766690564800237649371942L, 'for', 0.35, 's')
+  Finished simulation
+  ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+  ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/CaL_Vm.dat')
+  (1401, 1401)
+  ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/CaL_Gk.dat')
+  ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/CaL_Ik.dat')
+  ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+  Elements under /clock[0]
+  ('Starting simulation', 116084804357060004152276103982585223900L, 'for', 0.35, 's')
+  Finished simulation
+  ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+  ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/CaT_Vm.dat')
+  (1401, 1401)
+  ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/CaT_Gk.dat')
+  ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/CaT_Ik.dat')
+  ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+  Elements under /clock[0]
+  ('Starting simulation', 130420549423277721970328425856118390088L, 'for', 0.35, 's')
+  Finished simulation
+  ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+  ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/CaT_A_Vm.dat')
+  (1401, 1401)
+  ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/CaT_A_Gk.dat')
+  ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/CaT_A_Ik.dat')
+  [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaL_Gk.dat.gz'
+  [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaL_Vm.dat.gz'
+  [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_Gk.dat.gz'
+  [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_Vm.dat.gz'
+  [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_A_Gk.dat.gz'
+  [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_A_Vm.dat.gz'
+```
+- [ ] ./../traub_2005/py/test_tuftedrs.py
+
+`i``
+    ......
+    ----------------------------------------------------------------------
+    Ran 6 tests in 0.002s
+    
+    OK
+    ('data_dir =', '/tmp/traub2005_data/2017_06_28')
+    ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+    Elements under /clock[0]
+    ('Starting simulation', 266262252065091766690564800237649371942L, 'for', 0.35, 's')
+    Finished simulation
+    ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+    ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/CaL_Vm.dat')
+    (1401, 1401)
+    ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/CaL_Gk.dat')
+    ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/CaL_Ik.dat')
+    ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+    Elements under /clock[0]
+    ('Starting simulation', 116084804357060004152276103982585223900L, 'for', 0.35, 's')
+    Finished simulation
+    ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+    ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/CaT_Vm.dat')
+    (1401, 1401)
+    ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/CaT_Gk.dat')
+    ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/CaT_Ik.dat')
+    ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+    Elements under /clock[0]
+    ('Starting simulation', 130420549423277721970328425856118390088L, 'for', 0.35, 's')
+    Finished simulation
+    ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+    ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/CaT_A_Vm.dat')
+    (1401, 1401)
+    ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/CaT_A_Gk.dat')
+    ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/CaT_A_Ik.dat')
+    [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaL_Gk.dat.gz'
+    [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaL_Vm.dat.gz'
+    [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_Gk.dat.gz'
+    [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_Vm.dat.gz'
+    [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_A_Gk.dat.gz'
+    [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_A_Vm.dat.gz'
+```
+- [ ] ./../parallelSolver/Fig2_v4.py
+
+`i``
+      ......
+      ----------------------------------------------------------------------
+      Ran 6 tests in 0.002s
+      
+      OK
+      ('data_dir =', '/tmp/traub2005_data/2017_06_28')
+      ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+      Elements under /clock[0]
+      ('Starting simulation', 266262252065091766690564800237649371942L, 'for', 0.35, 's')
+      Finished simulation
+      ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+      ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/CaL_Vm.dat')
+      (1401, 1401)
+      ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/CaL_Gk.dat')
+      ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/CaL_Ik.dat')
+      ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+      Elements under /clock[0]
+      ('Starting simulation', 116084804357060004152276103982585223900L, 'for', 0.35, 's')
+      Finished simulation
+      ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+      ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/CaT_Vm.dat')
+      (1401, 1401)
+      ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/CaT_Gk.dat')
+      ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/CaT_Ik.dat')
+      ('Setting up clocks: simdt', 5e-06, 'plotdt', 0.00025)
+      Elements under /clock[0]
+      ('Starting simulation', 130420549423277721970328425856118390088L, 'for', 0.35, 's')
+      Finished simulation
+      ('Vm:', 1401, 'Gk', 1401, 'Ik', 1401)
+      ('Saved Vm in', '/tmp/traub2005_data/2017_06_28/CaT_A_Vm.dat')
+      (1401, 1401)
+      ('Saved Gk in', '/tmp/traub2005_data/2017_06_28/CaT_A_Gk.dat')
+      ('Saved Ik in', '/tmp/traub2005_data/2017_06_28/CaT_A_Ik.dat')
+      [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaL_Gk.dat.gz'
+      [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaL_Vm.dat.gz'
+      [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_Gk.dat.gz'
+      [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_Vm.dat.gz'
+      [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_A_Gk.dat.gz'
+      [Errno 2] No such file or directory: '/home/travis/build/BhallaLab/moose-examples/traub_2005/py/../nrn/data/CaT_A_Vm.dat.gz'
+```
+- [ ] ./../snippets/findChemSteadyState.py
+
+`i``
+  Starting simulation for 0.1
+  Simulated till 0.01. Left: 0.09. 0.01 of simulation took: 0.053242 s
+  Simulated till 0.02. Left: 0.08. 0.01 of simulation took: 0.040265 s
+  Simulated till 0.03. Left: 0.07. 0.01 of simulation took: 0.057676 s
+  Simulated till 0.04. Left: 0.06. 0.01 of simulation took: 0.039079 s
+  Simulated till 0.05. Left: 0.05. 0.01 of simulation took: 0.035839 s
+  Simulated till 0.06. Left: 0.04. 0.01 of simulation took: 0.024977 s
+  Simulated till 0.07. Left: 0.03. 0.01 of simulation took: 0.023776 s
+  Simulated till 0.08. Left: 0.02. 0.01 of simulation took: 0.023742 s
+  Simulated till 0.09. Left: 0.01. 0.01 of simulation took: 0.023521 s
+  Simulated till 0.1. Left: 1.38778e-17. 0.01 of simulation took: 0.030937 s
+  Running the remaining 1.38778e-17.
+  Finished simulation of 0.1 with minimum dt=1e-06 in 0.356175 s
+  46346 -3.45545546 -3.44744745 -3.43943944 -3.43143143
+   -3.42342342 -3.41541542 -3.40740741 -3.3993994  -3.39139139 -3.38338338
+   -3.37537538 -3.36736737 -3.35935936 -3.35135135 -3.34334334 -3.33533534
+   -3.32732733 -3.31931932 -3.31131131 -3.3033033  -3.2952953  -3.28728729
+   -3.27927928 -3.27127127 -3.26326326 -3.25525526 -3.24724725 -3.23923924
+   -3.23123123 -3.22322322 -3.21521522 -3.20720721 -3.1991992  -3.19119119
+   -3.18318318 -3.17517518 -3.16716717 -3.15915916 -3.15115115 -3.14314314
+   -3.13513514 -3.12712713 -3.11911912 -3.11111111 -3.1031031  -3.0950951
+   -3.08708709 -3.07907908 -3.07107107 -3.06306306 -3.05505506 -3.04704705
+   -3.03903904 -3.03103103 -3.02302302 -3.01501502 -3.00700701 -2.998999
+   -2.99099099 -2.98298298 -2.97497497 -2.96696697 -2.95895896 -2.95095095
+   -2.94294294 -2.93493493 -2.92692693 -2.91891892 -2.91091091 -2.9029029
+   -2.89489489 -2.88688689 -2.87887888 -2.87087087 -2.86286286 -2.85485485
+   -2.84684685 -2.83883884 -2.83083083 -2.82282282 -2.81481481 -2.80680681
+   -2.7987988  -2.79079079 -2.78278278 -2.77477477 -2.76676677 -2.75875876
+   -2.75075075 -2.74274274 -2.73473473 -2.72672673 -2.71871872 -2.71071071
+   -2.7027027  -2.69469469 -2.68668669 -2.67867868 -2.67067067 -2.66266266
+   -2.65465465 -2.64664665 -2.63863864 -2.63063063 -2.62262262 -2.61461461
+   -2.60660661 -2.5985986  -2.59059059 -2.58258258 -2.57457457 -2.56656657
+   -2.55855856 -2.55055055 -2.54254254 -2.53453453 -2.52652653 -2.51851852
+   -2.51051051 -2.5025025  -2.49449449 -2.48648649 -2.47847848 -2.47047047
+   -2.46246246 -2.45445445 -2.44644645 -2.43843844 -2.43043043 -2.42242242
+   -2.41441441 -2.40640641 -2.3983984  -2.39039039 -2.38238238 -2.37437437
+   -2.36636637 -2.35835836 -2.35035035 -2.34234234 -2.33433433 -2.32632633
+   -2.31831832 -2.31031031 -2.3023023  -2.29429429 -2.28628629 -2.27827828
+   -2.27027027 -2.26226226 -2.25425425 -2.24624625 -2.23823824 -2.23023023
+   -2.22222222 -2.21421421 -2.20620621 -2.1981982  -2.19019019 -2.18218218
+   -2.17417417 -2.16616617 -2.15815816 -2.15015015 -2.14214214 -2.13413413
+   -2.12612613 -2.11811812 -2.11011011 -2.1021021  -2.09409409 -2.08608609
+   -2.07807808 -2.07007007 -2.06206206 -2.05405405 -2.04604605 -2.03803804
+   -2.03003003 -2.02202202 -2.01401401 -2.00600601 -1.997998   -1.98998999
+   -1.98198198 -1.97397397 -1.96596597 -1.95795796 -1.94994995 -1.94194194
+   -1.93393393 -1.92592593 -1.91791792 -1.90990991 -1.9019019  -1.89389389
+   -1.88588589 -1.87787788 -1.86986987 -1.86186186 -1.85385385 -1.84584585
+   -1.83783784 -1.82982983 -1.82182182 -1.81381381 -1.80580581 -1.7977978
+   -1.78978979 -1.78178178 -1.77377377 -1.76576577 -1.75775776 -1.74974975
+   -1.74174174 -1.73373373 -1.72572573 -1.71771772 -1.70970971 -1.7017017
+   -1.69369369 -1.68568569 -1.67767768 -1.66966967 -1.66166166 -1.65365365
+   -1.64564565 -1.63763764 -1.62962963 -1.62162162 -1.61361361 -1.60560561
+   -1.5975976  -1.58958959 -1.58158158 -1.57357357 -1.56556557 -1.55755756
+   -1.54954955 -1.54154154 -1.53353353 -1.52552553 -1.51751752 -1.50950951
+   -1.5015015  -1.49349349 -1.48548549 -1.47747748 -1.46946947 -1.46146146
+   -1.45345345 -1.44544545 -1.43743744 -1.42942943 -1.42142142 -1.41341341
+   -1.40540541 -1.3973974  -1.38938939 -1.38138138 -1.37337337 -1.36536537
+   -1.35735736 -1.34934935 -1.34134134 -1.33333333 -1.32532533 -1.31731732
+   -1.30930931 -1.3013013  -1.29329329 -1.28528529 -1.27727728 -1.26926927
+   -1.26126126 -1.25325325 -1.24524525 -1.23723724 -1.22922923 -1.22122122
+   -1.21321321 -1.20520521 -1.1971972  -1.18918919 -1.18118118 -1.17317317
+   -1.16516517 -1.15715716 -1.14914915 -1.14114114 -1.13313313 -1.12512513
+   -1.11711712 -1.10910911 -1.1011011  -1.09309309 -1.08508509 -1.07707708
+   -1.06906907 -1.06106106 -1.05305305 -1.04504505 -1.03703704 -1.02902903
+   -1.02102102 -1.01301301 -1.00500501 -0.996997   -0.98898899 -0.98098098
+   -0.97297297 -0.96496496 -0.95695696 -0.94894895 -0.94094094 -0.93293293
+   -0.92492492 -0.91691692 -0.90890891 -0.9009009  -0.89289289 -0.88488488
+   -0.87687688 -0.86886887 -0.86086086 -0.85285285 -0.84484484 -0.83683684
+   -0.82882883 -0.82082082 -0.81281281 -0.8048048  -0.7967968  -0.78878879
+   -0.78078078 -0.77277277 -0.76476476 -0.75675676 -0.74874875 -0.74074074
+   -0.73273273 -0.72472472 -0.71671672 -0.70870871 -0.7007007  -0.69269269
+   -0.68468468 -0.67667668 -0.66866867 -0.66066066 -0.65265265 -0.64464464
+   -0.63663664 -0.62862863 -0.62062062 -0.61261261 -0.6046046  -0.5965966
+   -0.58858859 -0.58058058 -0.57257257 -0.56456456 -0.55655656 -0.54854855
+   -0.54054054 -0.53253253 -0.52452452 -0.51651652 -0.50850851 -0.5005005
+   -0.49249249 -0.48448448 -0.47647648 -0.46846847 -0.46046046 -0.45245245
+   -0.44444444 -0.43643644 -0.42842843 -0.42042042 -0.41241241 -0.4044044
+   -0.3963964  -0.38838839 -0.38038038 -0.37237237 -0.36436436 -0.35635636
+   -0.34834835 -0.34034034 -0.33233233 -0.32432432 -0.31631632 -0.30830831
+   -0.3003003  -0.29229229 -0.28428428 -0.27627628 -0.26826827 -0.26026026
+   -0.25225225 -0.24424424 -0.23623624 -0.22822823 -0.22022022 -0.21221221
+   -0.2042042  -0.1961962  -0.18818819 -0.18018018 -0.17217217 -0.16416416
+   -0.15615616 -0.14814815 -0.14014014 -0.13213213 -0.12412412 -0.11611612
+   -0.10810811 -0.1001001  -0.09209209 -0.08408408 -0.07607608 -0.06806807
+   -0.06006006 -0.05205205 -0.04404404 -0.03603604 -0.02802803 -0.02002002
+   -0.01201201 -0.004004    0.004004    0.01201201  0.02002002  0.02802803
+    0.03603604  0.04404404  0.05205205  0.06006006  0.06806807  0.07607608
+    0.08408408  0.09209209  0.1001001   0.10810811  0.11611612  0.12412412
+    0.13213213  0.14014014  0.14814815  0.15615616  0.16416416  0.17217217
+    0.18018018  0.18818819  0.1961962   0.2042042   0.21221221  0.22022022
+    0.22822823  0.23623624  0.24424424  0.25225225  0.26026026  0.26826827
+    0.27627628  0.28428428  0.29229229  0.3003003   0.30830831  0.31631632
+    0.32432432  0.33233233  0.34034034  0.34834835  0.35635636  0.36436436
+    0.37237237  0.38038038  0.38838839  0.3963964   0.4044044   0.41241241
+    0.42042042  0.42842843  0.43643644  0.44444444  0.45245245  0.46046046
+    0.46846847  0.47647648  0.48448448  0.49249249  0.5005005   0.50850851
+    0.51651652  0.52452452  0.53253253  0.54054054  0.54854855  0.55655656
+    0.56456456  0.57257257  0.58058058  0.58858859  0.5965966   0.6046046
+    0.61261261  0.62062062  0.62862863  0.63663664  0.64464464  0.65265265
+    0.66066066  0.66866867  0.67667668  0.68468468  0.69269269  0.7007007
+    0.70870871  0.71671672  0.72472472  0.73273273  0.74074074  0.74874875
+    0.75675676  0.76476476  0.77277277  0.78078078  0.78878879  0.7967968
+    0.8048048   0.81281281  0.82082082  0.82882883  0.83683684  0.84484484
+    0.85285285  0.86086086  0.86886887  0.87687688  0.88488488  0.89289289
+    0.9009009   0.90890891  0.91691692  0.92492492  0.93293293  0.94094094
+    0.94894895  0.95695696  0.96496496  0.97297297  0.98098098  0.98898899
+    0.996997    1.00500501  1.01301301  1.02102102  1.02902903  1.03703704
+    1.04504505  1.05305305  1.06106106  1.06906907  1.07707708  1.08508509
+    1.09309309  1.1011011   1.10910911  1.11711712  1.12512513  1.13313313
+    1.14114114  1.14914915  1.15715716  1.16516517  1.17317317  1.18118118
+    1.18918919  1.1971972   1.20520521  1.21321321  1.22122122  1.22922923
+    1.23723724  1.24524525  1.25325325  1.26126126  1.26926927  1.27727728
+    1.28528529  1.29329329  1.3013013   1.30930931  1.31731732  1.32532533
+    1.33333333  1.34134134  1.34934935  1.35735736  1.36536537  1.37337337
+    1.38138138  1.38938939  1.3973974   1.40540541  1.41341341  1.42142142
+    1.42942943  1.43743744  1.44544545  1.45345345  1.46146146  1.46946947
+    1.47747748  1.48548549  1.49349349  1.5015015   1.50950951  1.51751752
+    1.52552553  1.53353353  1.54154154  1.54954955  1.55755756  1.56556557
+    1.57357357  1.58158158  1.58958959  1.5975976   1.60560561  1.61361361
+    1.62162162  1.62962963  1.63763764  1.64564565  1.65365365  1.66166166
+    1.66966967  1.67767768  1.68568569  1.69369369  1.7017017   1.70970971
+    1.71771772  1.72572573  1.73373373  1.74174174  1.74974975  1.75775776
+    1.76576577  1.77377377  1.78178178  1.78978979  1.7977978   1.80580581
+    1.81381381  1.82182182  1.82982983  1.83783784  1.84584585  1.85385385
+    1.86186186  1.86986987  1.87787788  1.88588589  1.89389389  1.9019019
+    1.90990991  1.91791792  1.92592593  1.93393393  1.94194194  1.94994995
+    1.95795796  1.96596597  1.97397397  1.98198198  1.98998999  1.997998
+    2.00600601  2.01401401  2.02202202  2.03003003  2.03803804  2.04604605
+    2.05405405  2.06206206  2.07007007  2.07807808  2.08608609  2.09409409
+    2.1021021   2.11011011  2.11811812  2.12612613  2.13413413  2.14214214
+    2.15015015  2.15815816  2.16616617  2.17417417  2.18218218  2.19019019
+    2.1981982   2.20620621  2.21421421  2.22222222  2.23023023  2.23823824
+    2.24624625  2.25425425  2.26226226  2.27027027  2.27827828  2.28628629
+    2.29429429  2.3023023   2.31031031  2.31831832  2.32632633  2.33433433
+    2.34234234  2.35035035  2.35835836  2.36636637  2.37437437  2.38238238
+    2.39039039  2.3983984   2.40640641  2.41441441  2.42242242  2.43043043
+    2.43843844  2.44644645  2.45445445  2.46246246  2.47047047  2.47847848
+    2.48648649  2.49449449  2.5025025   2.51051051  2.51851852  2.52652653
+    2.53453453  2.54254254  2.55055055  2.55855856  2.56656657  2.57457457
+    2.58258258  2.59059059  2.5985986   2.60660661  2.61461461  2.62262262
+    2.63063063  2.63863864  2.64664665  2.65465465  2.66266266  2.67067067
+    2.67867868  2.68668669  2.69469469  2.7027027   2.71071071  2.71871872
+    2.72672673  2.73473473  2.74274274  2.75075075  2.75875876  2.76676677
+    2.77477477  2.78278278  2.79079079  2.7987988   2.80680681  2.81481481
+    2.82282282  2.83083083  2.83883884  2.84684685  2.85485485  2.86286286
+    2.87087087  2.87887888  2.88688689  2.89489489  2.9029029   2.91091091
+    2.91891892  2.92692693  2.93493493  2.94294294  2.95095095  2.95895896
+    2.96696697  2.97497497  2.98298298  2.99099099  2.998999    3.00700701
+    3.01501502  3.02302302  3.03103103  3.03903904  3.04704705  3.05505506
+    3.06306306  3.07107107  3.07907908  3.08708709  3.0950951   3.1031031
+    3.11111111  3.11911912  3.12712713  3.13513514  3.14314314  3.15115115
+    3.15915916  3.16716717  3.17517518  3.18318318  3.19119119  3.1991992
+    3.20720721  3.21521522  3.22322322  3.23123123  3.23923924  3.24724725
+    3.25525526  3.26326326  3.27127127  3.27927928  3.28728729  3.2952953
+    3.3033033   3.31131131  3.31931932  3.32732733  3.33533534  3.34334334
+    3.35135135  3.35935936  3.36736737  3.37537538  3.38338338  3.39139139
+    3.3993994   3.40740741  3.41541542  3.42342342  3.43143143  3.43943944
+    3.44744745  3.45545546  3.46346346  3.47147147  3.47947948  3.48748749
+    3.4954955   3.5035035   3.51151151  3.51951952  3.52752753  3.53553554
+    3.54354354  3.55155155  3.55955956  3.56756757  3.57557558  3.58358358
+    3.59159159  3.5995996   3.60760761  3.61561562  3.62362362  3.63163163
+    3.63963964  3.64764765  3.65565566  3.66366366  3.67167167  3.67967968
+    3.68768769  3.6956957   3.7037037   3.71171171  3.71971972  3.72772773
+    3.73573574  3.74374374  3.75175175  3.75975976  3.76776777  3.77577578
+    3.78378378  3.79179179  3.7997998   3.80780781  3.81581582  3.82382382
+    3.83183183  3.83983984  3.84784785  3.85585586  3.86386386  3.87187187
+    3.87987988  3.88788789  3.8958959   3.9039039   3.91191191  3.91991992
+    3.92792793  3.93593594  3.94394394  3.95195195  3.95995996  3.96796797
+    3.97597598  3.98398398  3.99199199  4.        ]
+  [-0.00159265 -0.06498118 -0.12810831 -0.19072012 -0.25256475 -0.31339342
+   -0.37296144 -0.4310292  -0.48736311 -0.54173658 -0.59393087 -0.64373604
+   -0.69095173 -0.73538803 -0.77686618 -0.81521933 -0.85029321 -0.88194673
+   -0.91005255 -0.93449763 -0.95518364 -0.97202735 -0.98496101 -0.99393261
+   -0.99890604 -0.99986131 -0.99679457 -0.98971816 -0.97866054 -0.96366619
+   -0.94479543 -0.92212416 -0.8957436  -0.86575984 -0.83229351 -0.79547922
+   -0.75546506 -0.71241199 -0.6664932  -0.61789339 -0.56680807 -0.51344273
+   -0.45801202 -0.40073894 -0.34185385 -0.28159363 -0.22020069 -0.15792197
+   -0.095008   -0.03171185  0.03171185  0.095008    0.15792197  0.22020069
+    0.28159363  0.34185385  0.40073894  0.45801202  0.51344273  0.56680807
+    0.61789339  0.6664932   0.71241199  0.75546506  0.79547922  0.83229351
+    0.86575984  0.8957436   0.92212416  0.94479543  0.96366619  0.97866054
+    0.98971816  0.99679457  0.99986131  0.99890604  0.99393261  0.98496101
+    0.97202735  0.95518364  0.93449763  0.91005255  0.88194673  0.85029321
+    0.81521933  0.77686618  0.73538803  0.69095173  0.64373604  0.59393087
+    0.54173658  0.48736311  0.4310292   0.37296144  0.31339342  0.25256475
+    0.19072012  0.12810831  0.06498118  0.00159265]
+```
+- [ ] ./../snippets/gssaCylinderDiffusion.py
+
+`i``
+```
+- [ ] ./../snippets/GraupnerBrunel2012_STDPfromCaPlasticity.py
+
+`i``
+  Elements under /network[0]
+  /network[0]/syns
+  ('before connect t = ', 0.0006358623504638672)
+  ('after connect t = ', 0.0006718635559082031)
+  ('after setting connectivity, t = ', 0.03586101531982422)
+  ('Middle of setup, t = ', 0.03692007064819336)
+  (1024, ', tot = ', 10536, ', numSynVec = ', array([10,  7, 13, ..., 15,  9,  5], dtype=uint32))
+  ('after setup, t = ', 0.2624380588531494)
+  ('reinit time t = ', 0.03423500061035156)
+  ('setting Vm , t = ', 0.034516096115112305)
+  starting
+  ('runtime, t = ', 0.3311161994934082)
+  (array([ 0.,  0.,  0.,  0.]), array([ 0.,  0.,  0.]))
+  mda[0]/handler[0]/synapse[0]
+  tick             = -1
+  weight           = 10.0
+  
+  [ /model[0]/soma[0]/nmda_noMg[0]/handler[0]/synapse[0] ]
+  className        = Synapse
+  delay            = 0.01
+  dt               = 0.0
+  fieldIndex       = 0
+  idValue          = 476
+  index            = 0
+  name             = synapse
+  numData          = 1
+  numField         = 1
+  path             = /model[0]/soma[0]/nmda_noMg[0]/handler[0]/synapse[0]
+  tick             = -1
+  weight           = 1.0
+  (1e-06, 9.999999999999999e-05)
+```
+- [ ] ./../snippets/multiscaleOneCompt.py
+
+`i``
+```
+- [ ] ./../neuroml/allChannelsCell/allChannelsCell.py
+
+`i``
+  Total time taken: 0.52362203598 sec for 1.0 sec of simulation
+  [INFO] [92m+ Plotting for head0Ik [0m
+  [INFO] [92m+ Plotting for toPsd0 [0m
+  [INFO] [92m+ Plotting for KGbar [0m
+  [INFO] [92m+ Plotting for dend0Ca [0m
+  [INFO] [92m+ Plotting for dendKinase [0m
+  [INFO] [92m+ Plotting for kChanmoose.nml.networkml: INFO     Creating population Gran of cell type Granule_98
+  moose.nml.networkml: INFO     Creating population Gran of cell type Granule_98
+  moose.nml.networkml: INFO     Creating input under /elec 
+  moose.nml.networkml: INFO     Creating input under /elec 
+  ead1Gbar [0m
+  [INFO] [92m+ Plotting for psd0R [0m
+  [INFO] [92m+ Plotting for head2Gbar [0m
+  [INFO] [92m+ Plotting for head1Ca [0m
+  [INFO] [92m+ Plotting for head0Vm [0m
+  [INFO] [92m+ Plotting for spine0Ca [0m
+  [INFO] [92m+ Plotting for dendVm [0m
+  [INFO] [92mWriting plot to mcs.plot.png [0m
+```
+- [ ] ./../neuroml/GranuleCell/Granule98_hsolve.py
+
+`i``
+    Total time taken: 0.52362203598 sec for 1.0 sec of simulation
+    [INFO] [92m+ Plotting for head0Ik [0m
+    [INFO] [92m+ Plotting for toPsd0 [0m
+    [INFO] [92m+ Plotting for KGbar [0m
+    [INFO] [92m+ Plotting for dend0Ca [0m
+    [INFO] [92m+ Plotting for dendKinase [0m
+    [INFO] [92m+ Plotting for kChanmoose.nml.networkml: INFO     Creating population Gran of cell type Granule_98
+    moose.nml.networkml: INFO     Creating population Gran of cell type Granule_98
+    moose.nml.networkml: INFO     Creating input under /elec 
+    moose.nml.networkml: INFO     Creating input under /elec 
+    ead1Gbar [0m
+    [INFO] [92m+ Plotting for psd0R [0m
+    [INFO] [92m+ Plotting for head2Gbar [0m
+    [INFO] [92m+ Plotting for head1Ca [0m
+    [INFO] [92m+ Plotting for head0Vm [0m
+    [INFO] [92m+ Plotting for spine0Ca [0m
+    [INFO] [92m+ Plotting for dendVm [0m
+    [INFO] [92mWriting plot to mcs.plot.png [0m
+```
+- [ ] ./../neuroml/lobster_pyloric/STG_net.py
+
+`i``
+  tau = 0.004 lambda = 0.000316227766017
+  0
+  -----------------
+  4.9672941329e-10 4.9672941329e-10 0.0 0.0 0.0 0.0 0.0 0.0 
+  0.0 0.0 0.0 0.0 0.moose.nml.networkml: INFO     Creating population AB_PD of cell type AB_PD
+  moose.nml.networkml: INFO     Creating population AB_PD of cell type AB_PD
+  moose.nml.networkml: INFO     Creating population CA1group of cell type CA1soma
+  moose.nml.networkml: INFO     Creating population CA1group of cell type CA1soma
+  moose.nml.networkml: INFO     Creating input under /elec 
+  moose.nml.networkml: INFO     Creating input under /elec 
+  Reinit MOOSE ... 
+  Solver: ee
+  Using exp euler
+  Using exp euler
+  Running ... 
+  Showing plots ...
+  unning ... 
+  Showing plots ...
+  ing PY_LP
+  moose.nml.networkml: INFO     Setting PY_LP
+  moose.nml.networkml: INFO     Setting AB_PY
+  moose.nml.networkml: INFO     Setting AB_PY
+  moose.nml.networkml: INFO     Setting AB_LP
+  moose.nml.networkml: INFO     Setting AB_LP
+  moose.nml.networkml: INFO     Setting LP_PY
+  moose.nml.networkml: INFO     Setting LP_PY
+  moose.nml.networkml: INFO     Setting LP_ABPD
+  moose.nml.networkml: INFO     Setting LP_ABPD
+  moose.nml.networkml: INFO     Setting PD_PY
+  moose.nml.networkml: INFO     Setting PD_PY
+```

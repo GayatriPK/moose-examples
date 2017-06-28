@@ -1,0 +1,30 @@
+  tau = 0.004 lambda = 0.000316227766017
+  0
+  -----------------
+  4.9672941329e-10 4.9672941329e-10 0.0 0.0 0.0 0.0 0.0 0.0 
+  0.0 0.0 0.0 0.0 0.moose.nml.networkml: INFO     Creating population AB_PD of cell type AB_PD
+  moose.nml.networkml: INFO     Creating population AB_PD of cell type AB_PD
+  moose.nml.networkml: INFO     Creating population CA1group of cell type CA1soma
+  moose.nml.networkml: INFO     Creating population CA1group of cell type CA1soma
+  moose.nml.networkml: INFO     Creating input under /elec 
+  moose.nml.networkml: INFO     Creating input under /elec 
+  Reinit MOOSE ... 
+  Solver: ee
+  Using exp euler
+  Using exp euler
+  Running ... 
+  Showing plots ...
+  unning ... 
+  Showing plots ...
+  ing PY_LP
+  moose.nml.networkml: INFO     Setting PY_LP
+  moose.nml.networkml: INFO     Setting AB_PY
+  moose.nml.networkml: INFO     Setting AB_PY
+  moose.nml.networkml: INFO     Setting AB_LP
+  moose.nml.networkml: INFO     Setting AB_LP
+  moose.nml.networkml: INFO     Setting LP_PY
+  moose.nml.networkml: INFO     Setting LP_PY
+  moose.nml.networkml: INFO     Setting LP_ABPD
+  moose.nml.networkml: INFO     Setting LP_ABPD
+  moose.nml.networkml: INFO     Setting PD_PY
+  moose.nml.networkml: INFO     Setting PD_PY
